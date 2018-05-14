@@ -1,0 +1,4 @@
+This help us a lot to know about Git and GitHub.
+This is the one of the part of front end development course.
+Git is a Version control system.
+GitHub is a website for hosting and collaborating on project.
